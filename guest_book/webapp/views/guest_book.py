@@ -35,6 +35,7 @@ def guest_book_edit_view(request, pk):
         else:
             return render(request, 'guest_book_edit.html', context={'form': form, 'guest_book': guest_book})
 
+
 def guest_book_delete(request, pk):
     guest_book = get_object_or_404(GuestBook, pk=pk)
     return render(request, 'guest_book_confirm_delete.html', context={'guest_book': guest_book})

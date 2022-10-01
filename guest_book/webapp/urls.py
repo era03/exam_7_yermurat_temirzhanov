@@ -1,8 +1,7 @@
-from unicodedata import name
-from django.contrib import admin
 from django.urls import path
 from webapp.views.base import index_view
 from webapp.views.guest_book import guest_book_add_view, guest_book_edit_view, guest_book_delete, guest_book_confirm_delete
+
 
 
 urlpatterns = [

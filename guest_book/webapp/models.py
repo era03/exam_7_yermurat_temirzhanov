@@ -16,6 +16,5 @@ class GuestBook(models.Model):
     updated_at = models.DateTimeField(auto_now=True, verbose_name='Время изменения')
     status = models.CharField(max_length=30, null=False, blank=False, choices=StatusChoices.choices, default=StatusChoices.ACTIVE)
 
-
     def __str__(self) -> str:
         return f'{self.author} - {self.email} - {self.text}'
