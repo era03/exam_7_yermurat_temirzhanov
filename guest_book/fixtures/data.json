@@ -1,0 +1,356 @@
+[
+{
+  "model": "webapp.guestbook",
+  "pk": 1,
+  "fields": {
+    "author": "John",
+    "email": "john@gmail.com",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit ullam aliquam commodi aperiam vero maiores incidunt! Minima nesciunt, aliquam velit, praesentium iusto rem eligendi cupiditate sunt optio quis officiis voluptatibus dolore inventore sed autem nisi nobis enim. Quos cumque autem fuga est laudantium vel, a eaque, sunt qui aperiam consequatur iure sapiente ad! Amet minus voluptate voluptates asperiores in perspiciatis enim consequuntur pariatur expedita sunt temporibus, necessitatibus illum eos! Itaque vitae, doloremque id tempore a maxime consequatur esse? Temporibus quasi nesciunt illo, quidem id tempore perferendis, corporis rerum, hic laboriosam cumque ducimus quaerat expedita numquam officiis deleniti natus eveniet saepe.",
+    "created_at": "2022-10-01T06:15:16.359Z",
+    "updated_at": "2022-10-01T06:43:09.574Z",
+    "status": "active"
+  }
+},
+{
+  "model": "webapp.guestbook",
+  "pk": 2,
+  "fields": {
+    "author": "Jane",
+    "email": "jane@gmail.com",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit ullam aliquam commodi aperiam vero maiores incidunt! Minima nesciunt, aliquam velit, praesentium iusto rem eligendi cupiditate sunt optio quis officiis voluptatibus dolore inventore sed autem nisi nobis enim. Quos cumque autem fuga est laudantium vel, a eaque, sunt qui aperiam consequatur iure sapiente ad! Amet minus voluptate voluptates asperiores in perspiciatis enim consequuntur pariatur expedita sunt temporibus, necessitatibus illum eos! Itaque vitae, doloremque id tempore a maxime consequatur esse? Temporibus quasi nesciunt illo, quidem id tempore perferendis, corporis rerum, hic laboriosam cumque ducimus quaerat expedita numquam officiis deleniti natus eveniet saepe.",
+    "created_at": "2022-10-01T06:15:45.584Z",
+    "updated_at": "2022-10-01T06:43:03.634Z",
+    "status": "active"
+  }
+},
+{
+  "model": "webapp.guestbook",
+  "pk": 3,
+  "fields": {
+    "author": "Bob",
+    "email": "bob@gmail.com",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit ullam aliquam commodi aperiam vero maiores incidunt! Minima nesciunt, aliquam velit, praesentium iusto rem eligendi cupiditate sunt optio quis officiis voluptatibus dolore inventore sed autem nisi nobis enim. Quos cumque autem fuga est laudantium vel, a eaque, sunt qui aperiam consequatur iure sapiente ad! Amet minus voluptate voluptates asperiores in perspiciatis enim consequuntur pariatur expedita sunt temporibus, necessitatibus illum eos! Itaque vitae, doloremque id tempore a maxime consequatur esse? Temporibus quasi nesciunt illo, quidem id tempore perferendis, corporis rerum, hic laboriosam cumque ducimus quaerat expedita numquam officiis deleniti natus eveniet saepe.",
+    "created_at": "2022-10-01T06:17:32.456Z",
+    "updated_at": "2022-10-01T06:42:50.987Z",
+    "status": "active"
+  }
+},
+{
+  "model": "webapp.guestbook",
+  "pk": 4,
+  "fields": {
+    "author": "Tom",
+    "email": "tom@gmail.com",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit ullam aliquam commodi aperiam vero maiores incidunt! Minima nesciunt, aliquam velit, praesentium iusto rem eligendi cupiditate sunt optio quis officiis voluptatibus dolore inventore sed autem nisi nobis enim. Quos cumque autem fuga est laudantium vel, a eaque, sunt qui aperiam consequatur iure sapiente ad! Amet minus voluptate voluptates asperiores in perspiciatis enim consequuntur pariatur expedita sunt temporibus, necessitatibus illum eos! Itaque vitae, doloremque id tempore a maxime consequatur esse? Temporibus quasi nesciunt illo, quidem id tempore perferendis, corporis rerum, hic laboriosam cumque ducimus quaerat expedita numquam officiis deleniti natus eveniet saepe.",
+    "created_at": "2022-10-01T06:18:18.010Z",
+    "updated_at": "2022-10-01T06:42:44.112Z",
+    "status": "blocked"
+  }
+},
+{
+  "model": "webapp.guestbook",
+  "pk": 5,
+  "fields": {
+    "author": "Edward",
+    "email": "edward@gmail.com",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit ullam aliquam commodi aperiam vero maiores incidunt! Minima nesciunt, aliquam velit, praesentium iusto rem eligendi cupiditate sunt optio quis officiis voluptatibus dolore inventore sed autem nisi nobis enim. Quos cumque autem fuga est laudantium vel, a eaque, sunt qui aperiam consequatur iure sapiente ad! Amet minus voluptate voluptates asperiores in perspiciatis enim consequuntur pariatur expedita sunt temporibus, necessitatibus illum eos! Itaque vitae, doloremque id tempore a maxime consequatur esse? Temporibus quasi nesciunt illo, quidem id tempore perferendis, corporis rerum, hic laboriosam cumque ducimus quaerat expedita numquam officiis deleniti natus eveniet saepe.",
+    "created_at": "2022-10-01T06:19:04.075Z",
+    "updated_at": "2022-10-01T06:42:36.534Z",
+    "status": "blocked"
+  }
+},
+{
+  "model": "webapp.guestbook",
+  "pk": 6,
+  "fields": {
+    "author": "Paul",
+    "email": "paul@gmail.com",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit ullam aliquam commodi aperiam vero maiores incidunt! Minima nesciunt, aliquam velit, praesentium iusto rem eligendi cupiditate sunt optio quis officiis voluptatibus dolore inventore sed autem nisi nobis enim. Quos cumque autem fuga est laudantium vel, a eaque, sunt qui aperiam consequatur iure sapiente ad! Amet minus voluptate voluptates asperiores in perspiciatis enim consequuntur pariatur expedita sunt temporibus, necessitatibus illum eos! Itaque vitae, doloremque id tempore a maxime consequatur esse? Temporibus quasi nesciunt illo, quidem id tempore perferendis, corporis rerum, hic laboriosam cumque ducimus quaerat expedita numquam officiis deleniti natus eveniet saepe.",
+    "created_at": "2022-10-01T06:20:00.105Z",
+    "updated_at": "2022-10-01T06:42:29.760Z",
+    "status": "active"
+  }
+},
+{
+  "model": "webapp.guestbook",
+  "pk": 10,
+  "fields": {
+    "author": "Fed",
+    "email": "fed@gmail.com",
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit ullam aliquam commodi aperiam vero maiores incidunt! Minima nesciunt, aliquam velit, praesentium iusto rem eligendi cupiditate sunt optio quis officiis voluptatibus dolore inventore sed autem nisi nobis enim. Quos cumque autem fuga est laudantium vel, a eaque, sunt qui aperiam consequatur iure sapiente ad! Amet minus voluptate voluptates asperiores in perspiciatis enim consequuntur pariatur expedita sunt temporibus, necessitatibus illum eos! Itaque vitae, doloremque id tempore a maxime consequatur esse? Temporibus quasi nesciunt illo, quidem id tempore perferendis, corporis rerum, hic laboriosam cumque ducimus quaerat expedita numquam officiis deleniti natus eveniet saepe.",
+    "created_at": "2022-10-01T10:30:36.140Z",
+    "updated_at": "2022-10-01T10:30:36.140Z",
+    "status": "active"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add guest book",
+    "content_type": 7,
+    "codename": "add_guestbook"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change guest book",
+    "content_type": 7,
+    "codename": "change_guestbook"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete guest book",
+    "content_type": 7,
+    "codename": "delete_guestbook"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view guest book",
+    "content_type": 7,
+    "codename": "view_guestbook"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$390000$65edHqCc3bS6UAHxv0jzwh$iu0j7K89owwvkej/cVX8DAnWh+MlNpQekrgcN50UzDY=",
+    "last_login": "2022-10-01T06:12:08.672Z",
+    "is_superuser": true,
+    "username": "root",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2022-10-01T05:48:25.990Z",
+    "groups": [],
+    "user_permissions": []
+  }
+}
+]
